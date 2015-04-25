@@ -13,6 +13,14 @@ And I will update the descriptions in Chinese and English.
 	    - [Swift Books](#swift-books)
 	    - [Swift Videos](#swift-videos)
 	    - [Swift Courses](#swift-courses)
+	- [Awesome Swift](#awesome-swift)
+    - [Demo Apps](#demo-apps)
+    - [Others](#others)
+        - [Animation](#animation)
+        - [Documentation](#documentation)
+        - [UI Design](#ui-design)
+        - [Prototyping](#prototyping)
+    - [Learn Git](#learn-git)
 
 
 
@@ -176,7 +184,7 @@ And I will update the descriptions in Chinese and English.
 * [UXPin](http://www.uxpin.com/)
 
 
-## Learn Git
+# Learn Git
 * [Git Beginner's Guide for Dummies](http://backlogtool.com/git-guide/en/)
 * [Learn Git Branching!](http://pcottle.github.io/learnGitBranching/)
 * [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
