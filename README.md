@@ -1,8 +1,21 @@
 Awesome Swift and Tutorial Resources
 =============
+A curated list of awesome Swift resources and tutorial websites. Feel free to contribute! 
+
+- [Awesome Swift and Tutorial Resources](#awesome-swift-and-tutorial-resources)
+	- [Tutorial Resources](#tutorial-resources)
+	    - [Swift Websites](#swift-websites)
+	    - [Swift Communities](#swift-communities)
+	    - [Swift Blogs](#swift-blogs)
+	    - [Swift Books](#swift-books)
+	    - [Swift Videos](#swift-videos)
+	    - [Swift Courses](#swift-courses)
+
+
 
 
 # Tutorial Resources
+*Various resources, such as books, videos, websites and articles, for improving your Swift development skills and knowledge.*
 
 ## Swift Websites
 * [AppCoda](http://www.appcoda.com/ios-programming-course/)
@@ -56,10 +69,10 @@ Awesome Swift and Tutorial Resources
 
 ## Swift Courses
 * [Learn Swift Programming to Make iOS Apps at Udemy ($39)](https://www.udemy.com/learn-swift-programming-to-make-ios-apps)
-* [Swift - Learn Apple's New Programming Language Step By Step at Udemy ($99)](https://www.udemy.com/swift-learn-apples-new-)programming-language-by-examples/
+* [Swift - Learn Apple's New Programming Language Step By Step at Udemy ($99)](https://www.udemy.com/swift-learn-apples-new-programming-language-by-examples/)
 * [The Bitfountain iOS 8 with Swift Immersive at Bitfountain($149)](http://bitfountain.io/courses/complete-ios8)
 * [iOS Developer Nanodegree at Udacity](https://www.udacity.com/course/nd003)
-* [Swiftris - Build your first ios game with swift](https://www.bloc.io/tutorials/swiftris-build-your-first-ios-game-with-)swift
+* [Swiftris - Build your first ios game with swift](https://www.bloc.io/tutorials/swiftris-build-your-first-ios-game-with-swift)
 * [Learn iOS Development with Swift at TreeHouse](https://teamtreehouse.com/tracks/ios-development-with-swift)
 * [Lynda.com](http://www.lynda.com/Swift-tutorials/Swift-Programming-Language-First-Look/182175-2.html)
 
