@@ -1,6 +1,9 @@
 Awesome Swift and Tutorial Resources
 =============
-A curated list of awesome Swift resources and tutorial websites. Feel free to contribute! 
+A curated list of awesome Swift resources and tutorial websites, inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
+
+Feel free to contribute !
+And I will update the descriptions in Chinese and English.
 
 - [Awesome Swift and Tutorial Resources](#awesome-swift-and-tutorial-resources)
 	- [Tutorial Resources](#tutorial-resources)
@@ -22,15 +25,12 @@ A curated list of awesome Swift resources and tutorial websites. Feel free to co
 * [Ray Wenderlich Swift Tutorials](http://www.raywenderlich.com/tutorials)
 * [iOS Swift Development Tutorials by Jameson Quave](http://jamesonquave.com/blog/category/swift/)
 * [Swiftcast.tv](https://swiftcast.tv/articles)
-* [Cocoa Kris Cocoa Kris](http://www.cocoakris.com/tutorial/swift-singleton/)
+* [Cocoa Kris](http://www.cocoakris.com/tutorial/swift-singleton/)
 * [iOS-Blog Swift Tutorials](http://ios-blog.co.uk/category/swift-tutorials/)
 * [Functions in Swift](http://www.codingexplorer.com/functions-swift-parameters-return-types/)
 * [Swift InFlux](https://github.com/ksm/SwiftInFlux)
-* [Natasha The Robot ](http://natashatherobot.com/)
+* [Natasha The Robot](http://natashatherobot.com/)
 * [LearnSwift.tips](http://www.learnswift.tips/)
-* [App Dev Wiki](http://appdevwiki.com/wiki/show/HomePage)
-* [iOS Goodies](http://ios-goodies.com/)
-* [Swift Toolbox](http://www.swifttoolbox.io/)
 
 
 ## Swift Communities
@@ -77,3 +77,108 @@ A curated list of awesome Swift resources and tutorial websites. Feel free to co
 * [Lynda.com](http://www.lynda.com/Swift-tutorials/Swift-Programming-Language-First-Look/182175-2.html)
 
 
+# Awesome Swift
+* [Awesome-iOS](https://github.com/vsouza/awesome-ios)
+* [Awesome-iOS-UI](https://github.com/cjwirth/awesome-ios-ui)
+* [Awesome-Swift(1)](https://github.com/matteocrippa/awesome-swift)
+* [Awesome-Swift(2)](https://github.com/Wolg/awesome-swift)
+
+
+# Demo Apps
+* [2048](https://github.com/austinzheng/swift-2048) - 2048 demo game in swift.
+* [Alarm](https://github.com/ChrisChares/swift-alarm) - an alarm app in swift.
+* [Chat](https://github.com/acani/Chats) - chat like app implementation in swift.
+* [CloudKit-To-Do-List](https://github.com/anthonygeranio/CloudKit-To-Do-List) - a cloudkit based to do list.
+* [DesignerNewsApp](https://github.com/MengTo/DesignerNewsApp) - simple iOS client for Designer News, by the creator of Design+Code and the team, written in Swift.
+* [DeckRocket](https://github.com/jpsim/DeckRocket) - deckrocket porting in swift.
+* [Edhita](https://github.com/tnantoka/edhita) - text edit app.
+* [Eidolon](https://github.com/artsy/eidolon) - The Artsy auction kiosk app.
+* [FanFanSwift](https://github.com/geek5nan/FanFanSwift) - a game in swift.
+* [firefox-ios](https://github.com/mozilla/firefox-ios) - firefox for iOS being developed by Mozilla.
+* [Federal Open Data](https://github.com/USDepartmentofLabor/Swift-Sample-App) - Get federal Open Data using the Federal Data SDK
+* [FlappySwift](https://github.com/fullstackio/FlappySwift) - flappy bird clone in swift.
+* [Gulps](https://github.com/FancyPixel/gulps) - OS app for iOS and apple watch to monitor water consumption.
+* [HackerNews](https://github.com/amitburst/HackerNews) - hackernews reader app written in swift.
+* [HausClock](https://github.com/nottombrown/HausClock) - chess stile clock app in swift.
+* [HomeKitDemo](https://github.com/KhaosT/HomeKit-Demo) - homekit demo app;
+* [iContactU](https://github.com/rizal72/iContactU) - delivered on Apple Store: reminds you to contact people you ought to.
+* [KeychainDemo](https://github.com/dasdom/KeychainDemo) - keychain sharing between an App and it's share extension
+* [LayerPlayer](https://github.com/scotteg/LayerPlayer) - explores CALayer and subclasses; written in Swift; also on App Store
+* [MyAwesomeChecklist](https://github.com/imod/MyAwesomeChecklist) - checklist app in swift.
+* [PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift) - a simple and beautiful chart lib used in Piner and CoinsMan for iOS (Swift Implementation).
+* [Pocket Forecast](https://github.com/typhoon-framework/Typhoon-Swift-Example) - typhoon weather example
+* [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch) - an MVVM & ReactiveCocoa Flickr search app in swift.
+* [Round & Split](https://github.com/lukhnos/roundandsplit) - a tip calculator in swift.
+* [SwiftFlickrApp](https://github.com/synboo/SwiftFlickrApp) - flickr app written in swift.
+* [Swift - Game of Life](https://github.com/yonbergman/swift-gameoflife) - Conway's game of life written in Swift with SpriteKit.
+* [SwiftHN](https://github.com/Dimillian/SwiftHN) - hacker news app in swift.
+* [SwiftNote](https://github.com/mslathrop/SwiftNote) - a simple note taking app with today widget and iCloud syncing.
+* [SwiftSingleton](https://github.com/hpique/SwiftSingleton) - an exploration of the Singleton pattern in Swift
+* [SwiftWeather](https://github.com/JakeLin/SwiftWeather) - a nice weather app written in swift.
+* [TextEthan](https://github.com/thii/TextEthan) - a clone of TextEthan, a messaging app that allows anyone to message you
+* [Task](https://github.com/mbcrump/TasksForSwiftWithPersistingData) - a task app written in Swift that is published in the app store. 
+* [The Oakland Post](https://github.com/aclissold/the-oakland-post) - a full-fledged, 100%-Swift (minus dependencies) news reader.
+* [Valio](https://github.com/soffes/valio) - event time table app in swift.
+* [Walk Tracker](https://github.com/kevinvanderlugt/Swift-Walk-Tracker) - GPS Walk Tracking app with Core Data
+
+
+# Others
+* [App Dev Wiki](http://appdevwiki.com/wiki/show/HomePage)
+* [Cocoa](http://cocoa.tumblr.com/)
+* [iOS Goodies](http://ios-goodies.com/)
+* [iOS Source Code Examples](http://code4app.net/)
+* [iOS Dev Weekly](http://iosdevweekly.com/)
+* [iOS Developer Tips](http://iosdevelopertips.com/)
+* [NSHipster](http://nshipster.com/)
+* [NSBlog](https://www.mikeash.com/pyblog/)
+* [objc.io](http://www.objc.io/)
+* [Peter Steinberger](http://petersteinberger.com/)
+* [Subjective-C](http://subjc.com/)
+* [Swift Toolbox](http://www.swifttoolbox.io/)
+
+
+## Animation
+* [Spring](https://github.com/MengTo/Spring)
+* [Canvas](http://canvaspod.io/)
+
+
+## Documentation
+* [jazzy](https://github.com/realm/jazzy/)
+* [swiftdoc-parser](https://github.com/SwiftDocOrg/swiftdoc-parser)
+
+
+## UI Design
+* [iOS Human Interface Guidelines ](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/)
+* [UIKit User Interface Catalog](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/UIKitUICatalog/index.html)
+* [The iOS Design Guidelines](http://iosdesign.ivomynttinen.com/)
+* [design+code](https://designcode.io/)
+* [FLEX](https://github.com/Flipboard/FLEX)
+
+
+## Prototyping
+* [Axure](http://www.axure.com/)
+* [Briefs](http://giveabrief.com/)
+* [Flinto](https://www.flinto.com/)
+* [Fluid](https://www.fluidui.com/)
+* [Form](http://www.relativewave.com/form/)
+* [Framer](http://framerjs.com/)
+* [InVision](http://www.invisionapp.com/)
+* [Justinmind](http://www.justinmind.com/)
+* [Keynotopia](http://keynotopia.com/)
+* [Marvel](https://marvelapp.com/)
+* [Moqups](https://moqups.com/)
+* [Origami](http://facebook.github.io/origami/)
+* [Pixate](http://www.pixate.com/)
+* [POP](https://popapp.in/)
+* [Protoshare](http://www.protoshare.com/)
+* [Sketch 3](http://bohemiancoding.com/sketch/)
+* [Solidify](http://www.solidifyapp.com/)
+* [UXPin](http://www.uxpin.com/)
+
+
+## Learn Git
+* [Git Beginner's Guide for Dummies](http://backlogtool.com/git-guide/en/)
+* [Learn Git Branching!](http://pcottle.github.io/learnGitBranching/)
+* [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
+* [Try Git: Code School](https://www.codeschool.com/courses/try-git)
+* [Git for Everyone](https://www.gitbook.com/book/anotheruiguy/gitforeveryone/details)
