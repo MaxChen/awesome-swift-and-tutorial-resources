@@ -60,8 +60,9 @@ And I will update the descriptions in Chinese and English.
 
 
 ## Swift Books
-* [The Swift Programming Language](https://itunes.apple.com/us/book/the-swift-programming-language/id881256329?mt=11)
-* [Using Swift with Cocoa and Objective-C](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11)
+* [《The Swift Programming Language》](https://itunes.apple.com/us/book/the-swift-programming-language/id881256329?mt=11)
+* [《The Swift Programming Language》簡體中文版]()
+* [《Using Swift with Cocoa and Objective-C》](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11)
 * [Swift Standard Library Reference](https://developer.apple.com/library/prerelease/ios/documentation/General/Reference/SwiftStandardLibraryReference/)
 * [Functional Programming in Swift ($39)](http://www.objc.io/books/)
 
