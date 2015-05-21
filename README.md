@@ -64,6 +64,9 @@ And I will update the descriptions in Chinese and English.
 * [Using Swift with Cocoa and Objective-C](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11)
 * [Swift Standard Library Reference](https://developer.apple.com/library/prerelease/ios/documentation/General/Reference/SwiftStandardLibraryReference/)
 * [Functional Programming in Swift ($39)](http://www.objc.io/books/)
+* [Pro Design Patterns in Swift](http://www.apress.com/9781484203958?gtmf=f) - Learn how to apply classic design patterns to iOS app development using Swift.
+* [iOS 8 Swift Programming Cookbook](http://shop.oreilly.com/product/0636920034254.do) - Entirely rewritten for Apple’s Swift programming language, this updated cookbook helps you overcome the vexing issues you’re likely to face when creating apps for iOS devices.
+* [iOS 8 Programming Fundamentals with Swift](http://shop.oreilly.com/product/0636920034278.do) - Move into iOS development by getting a firm grasp of its fundamentals, including the Xcode IDE, the Cocoa Touch framework, and Swift—Apple’s new programming language.
 
 
 ## Swift Videos
@@ -88,8 +91,10 @@ And I will update the descriptions in Chinese and English.
 # Awesome Swift
 * [Awesome-iOS](https://github.com/vsouza/awesome-ios)
 * [Awesome-iOS-UI](https://github.com/cjwirth/awesome-ios-ui)
-* [Awesome-Swift(1)](https://github.com/matteocrippa/awesome-swift)
-* [Awesome-Swift(2)](https://github.com/Wolg/awesome-swift)
+* [Awesome-Swift(1) @matteocrippa](https://github.com/matteocrippa/awesome-swift)
+* [Awesome-Swift(2) @Wolg](https://github.com/Wolg/awesome-swift)
+* [Awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation) - A curated list of awesome iOS animation, including Objective-C and Swift libraries
+* [Awesome-ios-chart](https://github.com/sxyx2008/awesome-ios-chart) - A curated list of awesome iOS chart libraries, including Objective-C and Swift
 
 
 # Demo Apps
@@ -143,11 +148,13 @@ And I will update the descriptions in Chinese and English.
 * [Peter Steinberger](http://petersteinberger.com/)
 * [Subjective-C](http://subjc.com/)
 * [Swift Toolbox](http://www.swifttoolbox.io/)
+* [RxSwift](https://github.com/kzaher/RxSwift) - Microsoft Reactive Extensions (Rx) for Swift and iOS/OSX platform
 
 
 ## Animation
 * [Spring](https://github.com/MengTo/Spring)
 * [Canvas](http://canvaspod.io/)
+* [DKChainableAnimationKit](https://github.com/Draveness/DKChainableAnimationKit) - Easy to read and write chainable animations in Swift
 
 
 ## Documentation
