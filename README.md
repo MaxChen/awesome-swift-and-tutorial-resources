@@ -6,14 +6,14 @@ Feel free to contribute !
 And I will update the descriptions in Chinese and English.
 
 - [Awesome Swift and Tutorial Resources](#awesome-swift-and-tutorial-resources)
-	- [Tutorial Resources](#tutorial-resources)
-	    - [Swift Websites](#swift-websites)
-	    - [Swift Communities](#swift-communities)
-	    - [Swift Blogs](#swift-blogs)
-	    - [Swift Books](#swift-books)
-	    - [Swift Videos](#swift-videos)
-	    - [Swift Courses](#swift-courses)
-	- [Awesome Swift](#awesome-swift)
+  - [Tutorial Resources](#tutorial-resources)
+      - [Swift Websites](#swift-websites)
+      - [Swift Communities](#swift-communities)
+      - [Swift Blogs](#swift-blogs)
+      - [Swift Books](#swift-books)
+      - [Swift Videos](#swift-videos)
+      - [Swift Courses](#swift-courses)
+  - [Awesome Swift](#awesome-swift)
     - [Demo Apps](#demo-apps)
     - [Others](#others)
         - [Animation](#animation)
@@ -129,7 +129,7 @@ And I will update the descriptions in Chinese and English.
 * [SwiftSingleton](https://github.com/hpique/SwiftSingleton) - an exploration of the Singleton pattern in Swift
 * [SwiftWeather](https://github.com/JakeLin/SwiftWeather) - a nice weather app written in swift.
 * [TextEthan](https://github.com/thii/TextEthan) - a clone of TextEthan, a messaging app that allows anyone to message you
-* [Task](https://github.com/mbcrump/TasksForSwiftWithPersistingData) - a task app written in Swift that is published in the app store. 
+* [Task](https://github.com/mbcrump/TasksForSwiftWithPersistingData) - a task app written in Swift that is published in the app store.
 * [The Oakland Post](https://github.com/aclissold/the-oakland-post) - a full-fledged, 100%-Swift (minus dependencies) news reader.
 * [Valio](https://github.com/soffes/valio) - event time table app in swift.
 * [Walk Tracker](https://github.com/kevinvanderlugt/Swift-Walk-Tracker) - GPS Walk Tracking app with Core Data
@@ -149,6 +149,7 @@ And I will update the descriptions in Chinese and English.
 * [Subjective-C](http://subjc.com/)
 * [Swift Toolbox](http://www.swifttoolbox.io/)
 * [RxSwift](https://github.com/kzaher/RxSwift) - Microsoft Reactive Extensions (Rx) for Swift and iOS/OSX platform
+* [iOS development with Swift path](http://www.howtocode.io/paths/ios-development-with-swift)
 
 
 ## Animation
@@ -197,3 +198,4 @@ And I will update the descriptions in Chinese and English.
 * [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
 * [Try Git: Code School](https://www.codeschool.com/courses/try-git)
 * [Git for Everyone](https://www.gitbook.com/book/anotheruiguy/gitforeveryone/details)
+* [Learn to use Git and remote repositories in 15 minutes](http://www.nicoschuele.com/posts/learn-to-use-git-and-remote-repositories-in-15-minutes)
