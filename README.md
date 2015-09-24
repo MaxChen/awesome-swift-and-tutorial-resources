@@ -14,13 +14,13 @@ And I will update the descriptions in Chinese and English.
       - [Swift Videos](#swift-videos)
       - [Swift Courses](#swift-courses)
   - [Awesome Swift](#awesome-swift)
-    - [Demo Apps](#demo-apps)
-    - [Others](#others)
-        - [Animation](#animation)
-        - [Documentation](#documentation)
-        - [UI Design](#ui-design)
-        - [Prototyping](#prototyping)
-    - [Learn Git](#learn-git)
+  - [Demo Apps](#demo-apps)
+  - [Others](#others)
+      - [Animation](#animation)
+      - [Documentation](#documentation)
+      - [UI Design](#ui-design)
+      - [Prototyping](#prototyping)
+  - [Learn Git](#learn-git)
 
 
 
@@ -39,6 +39,8 @@ And I will update the descriptions in Chinese and English.
 * [Swift InFlux](https://github.com/ksm/SwiftInFlux)
 * [Natasha The Robot](http://natashatherobot.com/)
 * [LearnSwift.tips](http://www.learnswift.tips/)
+* [Hacking with Swift](https://www.hackingwithswift.com) - It has 36 complete projects structured to help people learn Swift.
+* [Apple - Start Developing iOS Apps (Swift)](https://developer.apple.com/library/prerelease/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/) - Official docs introduction to building your first app—including the tools, major concepts, and best practices.
 
 
 ## Swift Communities
@@ -150,6 +152,9 @@ And I will update the descriptions in Chinese and English.
 * [Swift Toolbox](http://www.swifttoolbox.io/)
 * [RxSwift](https://github.com/kzaher/RxSwift) - Microsoft Reactive Extensions (Rx) for Swift and iOS/OSX platform
 * [iOS development with Swift path](http://www.howtocode.io/paths/ios-development-with-swift)
+* [That thing in swift](https://thatthinginswift.com/) - the Objective-C patterns we already know translate into Swift
+* [Algorithms & Data Structures with Swift — Wayne Bishop](http://waynewbishop.com/swift) - introduction to commonly used data structures and algorithms written in Swift
+* [Objective-C to Swift Converter: Swiftify](https://objectivec2swift.com/) - Objective-C to Swift Converter
 
 
 ## Animation
