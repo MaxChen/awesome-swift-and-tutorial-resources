@@ -78,7 +78,7 @@ And I will update the descriptions in Chinese and English.
 * [The Swift Language YouTube Channel ](https://www.youtube.com/user/TheSwiftLanguage/)
 * [Brian Advent Youtube Channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos)
 * [Skip Wilson Youtube Channel](https://www.youtube.com/user/SkipCasts/videos)
-
+* [iOS Development with Swift in Motion](https://www.manning.com/livevideo/ios-development-with-swift-lv)
 
 ## Swift Courses
 * [Learn Swift Programming to Make iOS Apps at Udemy ($39)](https://www.udemy.com/learn-swift-programming-to-make-ios-apps)
