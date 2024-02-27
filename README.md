@@ -30,6 +30,7 @@ And I will update the descriptions in Chinese and English.
 
 ## Swift Websites
 * [AppCoda](http://www.appcoda.com/ios-programming-course/)
+* [CodeWithChris](https://codewithchris.com/)
 * [Ray Wenderlich Swift Tutorials](http://www.raywenderlich.com/tutorials)
 * [iOS Swift Development Tutorials by Jameson Quave](http://jamesonquave.com/blog/category/swift/)
 * [Swiftcast.tv](https://swiftcast.tv/articles)
@@ -72,6 +73,7 @@ And I will update the descriptions in Chinese and English.
 
 
 ## Swift Videos
+* [Build Your First iOS App in SwiftUI](https://youtu.be/aP-SQXTtWhY)
 * [Developing iOS 8 Apps with Swift by Stanford - Paul Hegarty.](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099)
 * [How To Make an iPhone App](http://codewithchris.com/how-to-make-an-iphone-app/)
 * [250+ Swift Language Tutorials at YouTube](https://www.youtube.com/playlist?list=PLxwBNxx9j4PUpjCEVwjqFvNecNvQ6Dj6G)
@@ -82,6 +84,7 @@ And I will update the descriptions in Chinese and English.
 
 ## Swift Courses
 * [Learn Swift Programming to Make iOS Apps at Udemy ($39)](https://www.udemy.com/learn-swift-programming-to-make-ios-apps)
+* [Learn Swift By Angela Yu $20 (may vary)](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
 * [Swift - Learn Apple's New Programming Language Step By Step at Udemy ($99)](https://www.udemy.com/swift-learn-apples-new-programming-language-by-examples/)
 * [The Bitfountain iOS 8 with Swift Immersive at Bitfountain($149)](http://bitfountain.io/courses/complete-ios8)
 * [iOS Developer Nanodegree at Udacity](https://www.udacity.com/course/nd003)
@@ -166,6 +169,7 @@ And I will update the descriptions in Chinese and English.
 
 ## Documentation
 * [jazzy](https://github.com/realm/jazzy/)
+* [swift.org] (https://www.swift.org/)
 * [swiftdoc-parser](https://github.com/SwiftDocOrg/swiftdoc-parser)
 
 
